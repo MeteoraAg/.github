@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-  src="https://github.com/MeteoraAg/.github/blob/main/meteora/meteoraic.png?raw=true" 
+  src="https://github.com/MeteoraAg/.github/blob/main/meteora/meteora-banner.png?raw=true" 
   style="width:100%; height:100%;"
 />
 </div>
