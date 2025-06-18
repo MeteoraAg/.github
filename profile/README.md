@@ -31,4 +31,4 @@
 
 ## Toolkit
 
-- Scripts to create [Meteora Launch Pools](https://github.com/MeteoraAg/meteora-pool-setup)
+- Create [Meteora Launch Pool Scripts](https://github.com/MeteoraAg/meteora-pool-setup)
