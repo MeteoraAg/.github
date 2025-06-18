@@ -10,6 +10,10 @@
 
 ### Building the most dynamic liquidity pools for Liquidity Providers, Launchpads and Launches
 
+## Documentation
+- [Meteora Documentation](https://docs.meteora.ag)
+- [Developer Documentation](https://docs.meteora.ag)
+
 ## Programs
 
 - [DAMM V2](https://github.com/MeteoraAg/damm-v2)
