@@ -10,6 +10,11 @@
 
 ### Building the most dynamic liquidity pools for Liquidity Providers, Launchpads and Launches
 
+## Programs
+
+- [DAMM V2](https://github.com/MeteoraAg/damm-v2)
+- [Dynamic Bonding Curve](https://github.com/MeteoraAg/dynamic-bonding-curve)
+
 ## SDKs
 
 - DAMM V1 SDK [@meteora-ag/dynamic-amm-sdk](https://github.com/MeteoraAg/dynamic-amm-sdk)
@@ -19,3 +24,7 @@
 - Alpha Vault SDK [@meteora-ag/alpha-vault](https://github.com/MeteoraAg/alpha-vault-sdk)
 - Dynamic Vault SDK [@meteora-ag/vault-sdk](https://github.com/MeteoraAg/vault-sdk)
 - Pool Farms SDK [@meteora-ag/farming-sdk](https://github.com/MeteoraAg/reward-pool)
+
+## Toolkit
+
+- [Meteora Pool Setup](https://github.com/MeteoraAg/meteora-pool-setup)
