@@ -29,8 +29,11 @@
 - Dynamic Vault SDK [@meteora-ag/vault-sdk](https://github.com/MeteoraAg/vault-sdk)
 - Pool Farms SDK [@meteora-ag/farming-sdk](https://github.com/MeteoraAg/reward-pool)
 
-## Toolkit
+## Scaffolds
+- [Launchpad Scaffold](https://github.com/MeteoraAg/meteora-scaffold)
+
+## Tools
 
 - [Meteora Launch Pool Scripts](https://github.com/MeteoraAg/meteora-pool-setup)
 - [Meteora Studio](https://github.com/MeteoraAg/meteora-studio)
-- [Launchpad Scaffold](https://github.com/MeteoraAg/meteora-scaffold)
+- [Meteora Manual Migrator](https://migrator.meteora.ag)
