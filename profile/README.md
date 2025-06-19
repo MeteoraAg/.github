@@ -32,3 +32,5 @@
 ## Toolkit
 
 - [Meteora Launch Pool Scripts](https://github.com/MeteoraAg/meteora-pool-setup)
+- [Meteora Studio](https://github.com/MeteoraAg/meteora-studio)
+- [Launchpad Scaffold](https://github.com/MeteoraAg/meteora-scaffold)
