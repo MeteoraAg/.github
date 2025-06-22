@@ -16,13 +16,13 @@
 
 ## Programs
 
-- [DAMM V2](https://github.com/MeteoraAg/damm-v2)
+- [DAMM v2](https://github.com/MeteoraAg/damm-v2)
 - [Dynamic Bonding Curve](https://github.com/MeteoraAg/dynamic-bonding-curve)
 
 ## SDKs
 
-- DAMM V1 SDK [@meteora-ag/dynamic-amm-sdk](https://github.com/MeteoraAg/dynamic-amm-sdk)
-- DAMM V2 SDK [@meteora-ag/cp-amm-sdk](https://github.com/MeteoraAg/damm-v2-sdk)
+- DAMM v1 SDK [@meteora-ag/dynamic-amm-sdk](https://github.com/MeteoraAg/dynamic-amm-sdk)
+- DAMM v2 SDK [@meteora-ag/cp-amm-sdk](https://github.com/MeteoraAg/damm-v2-sdk)
 - DLMM SDK [@meteora-ag/dlmm](https://github.com/MeteoraAg/dlmm-sdk)
 - Dynamic Bonding Curve SDK [@meteora-ag/dynamic-bonding-curve-sdk](https://github.com/MeteoraAg/dynamic-bonding-curve-sdk)
 - Alpha Vault SDK [@meteora-ag/alpha-vault](https://github.com/MeteoraAg/alpha-vault-sdk)
