@@ -40,6 +40,6 @@
 
 ## Tools
 
-- [Meteora Launch Pool Scripts](https://github.com/MeteoraAg/meteora-pool-setup)
-- [Meteora Studio](https://github.com/MeteoraAg/meteora-studio)
+- [Launch Pool Scripts](https://github.com/MeteoraAg/meteora-pool-setup)
+- [Meteora Invent](https://github.com/MeteoraAg/meteora-invent)
 - [Meteora Manual Migrator](https://migrator.meteora.ag)
