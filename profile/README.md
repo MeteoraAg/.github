@@ -42,4 +42,4 @@
 
 - [Launch Pool Scripts](https://github.com/MeteoraAg/meteora-pool-setup)
 - [Meteora Invent](https://github.com/MeteoraAg/meteora-invent)
-- [Meteora Manual Migrator](https://migrator.meteora.ag)
+- [DBC Manual Migrator UI](https://migrator.meteora.ag)
