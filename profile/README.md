@@ -32,8 +32,8 @@
 - Pool Farms SDK [@mercurial-finance/farming-sdk](https://github.com/MeteoraAg/reward-pool)
 
 ### Go
-- [DAMM v2 GoLang](https://github.com/MeteoraAg/damm-v2-go)
-- [DBC GoLang](https://github.com/MeteoraAg/dbc-go)
+- [DAMM v2 Go](https://github.com/MeteoraAg/damm-v2-go)
+- [DBC Go](https://github.com/MeteoraAg/dbc-go)
 
 ## Scaffolds
 - [Launchpad Scaffold](https://github.com/MeteoraAg/meteora-scaffold)
