@@ -36,11 +36,8 @@
 - [DAMM v2 Go](https://github.com/MeteoraAg/damm-v2-go)
 - [DBC Go](https://github.com/MeteoraAg/dbc-go)
 
-## Scaffolds
-- [Launchpad Scaffold](https://github.com/MeteoraAg/meteora-scaffold)
-
 ## Tools
 
-- [Launch Pool Scripts](https://github.com/MeteoraAg/meteora-pool-setup)
 - [Meteora Invent](https://github.com/MeteoraAg/meteora-invent)
+- [Launch Pool Scripts](https://github.com/MeteoraAg/meteora-pool-setup)
 - [DBC Manual Migrator UI](https://migrator.meteora.ag)
