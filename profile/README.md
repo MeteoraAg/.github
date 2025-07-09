@@ -31,6 +31,7 @@
 - Dynamic Vault SDK [@meteora-ag/vault-sdk](https://github.com/MeteoraAg/vault-sdk)
 - Pool Farms SDK [@mercurial-finance/farming-sdk](https://github.com/MeteoraAg/reward-pool)
 - Stake2Earn SDK [@meteora-ag/m3m3](https://github.com/MeteoraAg/stake-for-fee-sdk)
+- Dynamic Fee Sharing SDK [@meteora-ag/dynamic-fee-sharing-sdk](https://github.com/MeteoraAg/dynamic-fee-sharing-sdk)
 
 ### Go
 - [DAMM v2 Go](https://github.com/MeteoraAg/damm-v2-go)
