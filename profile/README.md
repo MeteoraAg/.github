@@ -29,7 +29,7 @@
 - Dynamic Bonding Curve SDK [@meteora-ag/dynamic-bonding-curve-sdk](https://github.com/MeteoraAg/dynamic-bonding-curve-sdk)
 - Alpha Vault SDK [@meteora-ag/alpha-vault](https://github.com/MeteoraAg/alpha-vault-sdk)
 - Dynamic Vault SDK [@meteora-ag/vault-sdk](https://github.com/MeteoraAg/vault-sdk)
-- Pool Farms SDK [@mercurial-finance/farming-sdk](https://github.com/MeteoraAg/reward-pool)
+- Pool Farms SDK [@meteora-ag/farming-sdk](https://github.com/MeteoraAg/reward-pool)
 - Stake2Earn SDK [@meteora-ag/m3m3](https://github.com/MeteoraAg/stake-for-fee-sdk)
 - Dynamic Fee Sharing SDK [@meteora-ag/dynamic-fee-sharing-sdk](https://github.com/MeteoraAg/dynamic-fee-sharing-sdk)
 - Meteora Lock SDK [@meteora-ag/met-lock-sdk](https://github.com/MeteoraAg/met-lock-sdk)
