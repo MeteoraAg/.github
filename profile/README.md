@@ -32,6 +32,7 @@
 - Pool Farms SDK [@mercurial-finance/farming-sdk](https://github.com/MeteoraAg/reward-pool)
 - Stake2Earn SDK [@meteora-ag/m3m3](https://github.com/MeteoraAg/stake-for-fee-sdk)
 - Dynamic Fee Sharing SDK [@meteora-ag/dynamic-fee-sharing-sdk](https://github.com/MeteoraAg/dynamic-fee-sharing-sdk)
+- Meteora Lock SDK [@meteora-ag/met-lock-sdk](https://github.com/MeteoraAg/met-lock-sdk)
 
 ### Go
 - [DAMM v2 Go](https://github.com/MeteoraAg/damm-v2-go)
