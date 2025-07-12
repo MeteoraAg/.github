@@ -12,7 +12,7 @@
 
 ## Documentation
 - [Overview of Meteora's Tech Stack](https://docs.meteora.ag/overview/home)
-- [Developer Documentation]([https://docs.meteora.ag](https://docs.meteora.ag/developer-guide/home)
+- [Developer Documentation](https://docs.meteora.ag/developer-guide/home)
 
 ## Programs
 
