@@ -11,8 +11,8 @@
 ### Building the most dynamic liquidity pools for Liquidity Providers, Launchpads and Launches
 
 ## Documentation
-- [About Meteora](https://docs.meteora.ag)
-- [Developer Documentation](https://docs.meteora.ag)
+- [Overview of Meteora's Tech Stack](https://docs.meteora.ag/overview/home)
+- [Developer Documentation]([https://docs.meteora.ag](https://docs.meteora.ag/developer-guide/home))
 
 ## Programs
 
