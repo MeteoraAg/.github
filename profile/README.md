@@ -18,6 +18,7 @@
 
 - [DAMM v2](https://github.com/MeteoraAg/damm-v2)
 - [Dynamic Bonding Curve](https://github.com/MeteoraAg/dynamic-bonding-curve)
+- [Meteora Lock](https://github.com/jup-ag/jup-lock)
 
 ## SDKs
 
