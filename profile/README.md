@@ -42,6 +42,7 @@
 
 ## Tools
 
-- [Meteora Invent](https://github.com/MeteoraAg/meteora-invent)
-- [Launch Pool Scripts](https://github.com/MeteoraAg/meteora-pool-setup)
-- [DBC Manual Migrator UI](https://migrator.meteora.ag)
+- Invent with Metsumi @ [Meteora Invent](https://github.com/MeteoraAg/meteora-invent)
+  - Customise your config and run scripts with Metsumi
+  - Launchpads-as-a-Service: Fun Launch Scaffold Repository
+- Manually Migrate Pools on Devnet / Mainnet @ [DBC Manual Migrator UI](https://migrator.meteora.ag)
