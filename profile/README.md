@@ -11,8 +11,7 @@
 ### Building the most dynamic liquidity pools for Liquidity Providers, Launchpads and Launches
 
 ## Documentation
-- [Overview of Meteora's Tech Stack](https://docs.meteora.ag/overview/home)
-- [Developer Documentation](https://docs.meteora.ag/developer-guide/home)
+- [We Build Liquidity Pools](https://docs.meteora.ag)
 
 ## Programs
 
@@ -43,7 +42,7 @@
 
 ## Tools
 
-- Invent with Metsumi @ [Meteora Invent](https://github.com/MeteoraAg/meteora-invent)
-  - Customise your config and run scripts with Metsumi
+- [Meteora Invent](https://github.com/MeteoraAg/meteora-invent)
+  - Customise your config and run commands with Metsumi
   - Launchpads-as-a-Service: Fun Launch Scaffold Repository
 - Manually Migrate Pools on Devnet / Mainnet @ [DBC Manual Migrator UI](https://migrator.meteora.ag)
