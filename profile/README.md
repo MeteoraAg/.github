@@ -32,8 +32,9 @@
 - Alpha Vault SDK [@meteora-ag/alpha-vault](https://github.com/MeteoraAg/alpha-vault-sdk)
 - Stake2Earn SDK [@meteora-ag/m3m3](https://github.com/MeteoraAg/stake-for-fee-sdk)
 - Dynamic Vault SDK [@meteora-ag/vault-sdk](https://github.com/MeteoraAg/vault-sdk)
-- Dynamic Fee Sharing SDK [@meteora-ag/dynamic-fee-sharing-sdk](https://github.com/MeteoraAg/dynamic-fee-sharing-sdk)
 - Meteora Lock SDK [@meteora-ag/met-lock-sdk](https://github.com/MeteoraAg/met-lock-sdk)
+- Dynamic Fee Sharing SDK [@meteora-ag/dynamic-fee-sharing-sdk](https://github.com/MeteoraAg/dynamic-fee-sharing-sdk)
+- Zap SDK [@meteora-ag/zap-sdk](https://github.com/MeteoraAg/zap-sdk)
 - Pool Farms SDK (for DAMM v1) [@meteora-ag/farming-sdk](https://github.com/MeteoraAg/reward-pool)
 
 ### Go
