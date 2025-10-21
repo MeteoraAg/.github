@@ -17,8 +17,8 @@
 
 - [DAMM v2](https://github.com/MeteoraAg/damm-v2)
 - [Dynamic Bonding Curve](https://github.com/MeteoraAg/dynamic-bonding-curve)
+- [Presale Vault](https://github.com/MeteoraAg/presale)
 - [Dynamic Fee Sharing](https://github.com/MeteoraAg/dynamic-fee-sharing)
-- [Meteora Lock](https://github.com/jup-ag/jup-lock)
 - [Zap](https://github.com/MeteoraAg/zap-program)
 
 ## SDKs
@@ -29,10 +29,10 @@
 - DAMM v1 SDK [@meteora-ag/dynamic-amm-sdk](https://github.com/MeteoraAg/dynamic-amm-sdk)
 - DAMM v2 SDK [@meteora-ag/cp-amm-sdk](https://github.com/MeteoraAg/damm-v2-sdk)
 - Dynamic Bonding Curve SDK [@meteora-ag/dynamic-bonding-curve-sdk](https://github.com/MeteoraAg/dynamic-bonding-curve-sdk)
+- Presale Vault SDK [@meteora-ag/presale](https://github.com/MeteoraAg/presale-sdk)
 - Alpha Vault SDK [@meteora-ag/alpha-vault](https://github.com/MeteoraAg/alpha-vault-sdk)
 - Stake2Earn SDK [@meteora-ag/m3m3](https://github.com/MeteoraAg/stake-for-fee-sdk)
 - Dynamic Vault SDK [@meteora-ag/vault-sdk](https://github.com/MeteoraAg/vault-sdk)
-- Meteora Lock SDK [@meteora-ag/met-lock-sdk](https://github.com/MeteoraAg/met-lock-sdk)
 - Dynamic Fee Sharing SDK [@meteora-ag/dynamic-fee-sharing-sdk](https://github.com/MeteoraAg/dynamic-fee-sharing-sdk)
 - Zap SDK [@meteora-ag/zap-sdk](https://github.com/MeteoraAg/zap-sdk)
 - Pool Farms SDK (for DAMM v1) [@meteora-ag/farming-sdk](https://github.com/MeteoraAg/reward-pool)
