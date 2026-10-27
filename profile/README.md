@@ -17,9 +17,7 @@
 
 - [DAMM v2](https://github.com/MeteoraAg/damm-v2)
 - [Dynamic Bonding Curve](https://github.com/MeteoraAg/dynamic-bonding-curve)
-- [Presale Vault](https://github.com/MeteoraAg/presale)
 - [Dynamic Fee Sharing](https://github.com/MeteoraAg/dynamic-fee-sharing)
-- [Zap](https://github.com/MeteoraAg/zap-program)
 
 ## SDKs
 
